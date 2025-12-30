@@ -73,7 +73,6 @@ I am currently pursuing a **Data Science course**, building a strong foundation 
 
 ## 🔗 Profiles & Links
 
-- 💻 **LeetCode**: https://leetcode.com/u/anirudha_dwivedii/  
 - 🔗 **LinkedIn**: https://www.linkedin.com/feed/  
 
 ---
