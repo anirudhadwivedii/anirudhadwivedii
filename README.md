@@ -73,7 +73,7 @@ I am currently pursuing a **Data Science course**, building a strong foundation 
 
 ## 🔗 Profiles & Links
 
-- 🔗 **LinkedIn**: https://www.linkedin.com/feed/  
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/anirudhadwivedii/
 
 ---
 
